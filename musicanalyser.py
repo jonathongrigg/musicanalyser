@@ -1,7 +1,7 @@
 # Copyright (c) Jonathon Grigg 2012
 #
 # Simple Python program that scrapes the top 100 songs of the US iTunes chart
-# and saves the resulting information (songs and beginning character frequency)
+# and saves the resulting information (songs, artists and beginning character frequency)
 # in a dated text file that the user can then later see what has changed
 #
 # A lot more could potentially be done with this information, but for my
